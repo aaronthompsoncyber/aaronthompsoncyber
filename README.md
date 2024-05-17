@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aaron! <br/><a href="https://github.com/aaronthompsoncyber">Programmer</a>, <a href="https://www.linkedin.com/in/aaronthompsoncyber/">Cybersecurity Professional</a>
+<h1>Hi, I'm Aaron!<a href="https://www.linkedin.com/in/aaronthompsoncyber/">Cybersecurity Professional</a>, <br/><a href="https://github.com/aaronthompsoncyber">Programmer</a> 
 
 <h2>💻Cybersecurity Projects:</h2>
 
