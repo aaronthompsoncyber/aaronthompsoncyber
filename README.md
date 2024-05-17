@@ -17,7 +17,7 @@
 [<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="aaronthompsoncyber | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[youtube]: https://www.youtube.com/c/aaroncyberlearn
+[youtube]: https://www.youtube.com/channel/UCuG64c38lyI6Kakl9M-ur_g
 [linkedin]: https://linkedin.com/in/aaronthompsoncyber
 
 Here are some ideas to get you started:
