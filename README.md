@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab]()
-<h2>:💡Certifications</h2>
+<h2>:📜Certifications</h2>
   - [ISC2 Certified in Cybersecurity]()
   - [CompTIA Security+]()
 
