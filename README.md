@@ -3,16 +3,17 @@
 <h2>💻Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab]()
-<h2>📜Certifications</h2>
-
-  - [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/c5dd09b5-a3d0-4c3c-a980-cca8d0275055/public_url)
 
 <h2>🔧Python Projects:</h2>
+  - [Calculator] 
 
 <h2>🎬YouTube Portfolio Demo Videos Coming Soon </h2>
 
 - [Active Directory Home Lab]()
 
+<h2>📜Certifications</h2>
+
+  - [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/c5dd09b5-a3d0-4c3c-a980-cca8d0275055/public_url)
 
 <h2>🌍Connect with me:</h2>
 
