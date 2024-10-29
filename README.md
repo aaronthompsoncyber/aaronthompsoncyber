@@ -1,31 +1,56 @@
-<h1>Hi, I'm Aaron! <br/><a href="https://www.linkedin.com/in/aaronthompsoncyber/">Cybersecurity Professional</a>, <a href="https://github.com/aaronthompsoncyber">Programmer</a> 
+ Hello, I'm Aaron
+ 
+<a href="https://linkedin.com/in/aaronthompsoncyber"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h2>💻Cybersecurity Projects:</h2>
+I am a Junior Cybersecurity Analyst with a background in government program compliance and consulting.
 
+## Objective
 
+My journey in information technology within the state government level has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a government entity or company as a Tier 1 Security Analyst.
 
-<h2>🔧Python Projects:</h2>
-   
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-<h2>🎬YouTube Portfolio Demo Videos Coming Soon </h2>
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
-<h2>📜Certifications</h2>
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
-  - [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/c5dd09b5-a3d0-4c3c-a980-cca8d0275055/public_url)
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
-<h2>🌍Connect with me:</h2>
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
-[<img align="left" alt="aaronthompsoncyber | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+</div>
 
-
-[linkedin]: https://linkedin.com/in/aaronthompsoncyber
-[youtube]: https://www.youtube.com/channel/UCuG64c38lyI6Kakl9M-ur_g
-<!--
-
-- 🔭 I’m currently working on my CompTIA Security+ (Expected June 2024)
-- 🌱 I’m currently learning and writing security projects in Python to document here in my GitHub portfolio.
-- 🐍 Fun fact: Believe it or not, a man named Tim Peters composed a poem called ‘The Zen of Python’ about Python programming.
-
+## Projects
+- Snort IPS Tutorial with pfSense 
+- Azure Sentinel SIEM with Live Cyber Attack Map
+- Splunk SIEM Indexer and Forwarder Configuration
+- 
